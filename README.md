@@ -6,6 +6,9 @@
           
 - 📫 Reach me [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/dmzahar)
 
+[![streak](https://codeium.com/badges/v2/user/fitfully-admired-damselfish-04288/streak)](https://codeium.com/profile/fitfully-admired-damselfish-04288)
+
+
 <!---
 zakharovdm/zakharovdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
